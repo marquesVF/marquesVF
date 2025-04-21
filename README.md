@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    This is Vinicius, a computer scientist 👨‍💻 and enthusiast of programming languages 🤓 with a passion for muscle development 🏋️. Originally from Brazil, I have lived in the USA and currently reside in Munich, Germany. My current work involves developing storefronts and microservices for e-commerce. In my free time, I work on personal projects in Rust.
+    I'm Vinicius, a computer scientist 👨‍💻 and programming language enthusiast 🤓 with a passion for muscle development 🏋️. Originally from Brazil, I've lived in the USA and currently reside in Munich, Germany. I work in e-commerce, developing storefronts and microservices. In my free time, I work on personal projects in Rust.
   </em> 
   <br>
   <br>
@@ -11,16 +11,23 @@
 
 ## A Short Summary About Me...
 
-- 🔭 I’m currently working on a storefront for e-commerce
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with industry innovations
+- 🔭 I'm currently working in the e-commerce industry
+- 🌱 I'm currently learning Rust
+- ❤️ My passion lies in building scalable e-commerce solutions and exploring new programming languages
+- 👯 I'm looking to collaborate on exciting projects
+- 🤔 I'm looking for help with industry innovations
 - 💬 Ask me about life in Germany as an expat
-- ⚡ Fun fact: I only do raves, not regular clubs 😎
+
+## 🚀 Professional Highlights
+
+- 10 years of experience in the tech industry
+- Strong focus on e-commerce solutions and microservices architecture
+- Experience working in international teams
+- Passionate about clean code, best practices, and continuous learning
 
 ## My Experiences
 
-This is a list of the most recent technologies I've been working on for the last years of my career in the tech industry.
+Here are the technologies I've been working with most recently in my tech career.
 
 ### Languages
 <p>
@@ -55,3 +62,18 @@ This is a list of the most recent technologies I've been working on for the last
   <code><img height="32" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws"></code>
   <code><img height="32" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"></code>
 </p>
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/marquesvf/)
+
+## 🎯 What I'm Looking For
+
+- Challenging and exciting projects
+- Opportunities to work with modern tech stacks
+- Teams that value code quality and continuous improvement
+- International work environments
+
+## 🤝 Let's Connect!
+
+I'm always open to discussing new opportunities, collaborations, or just having a chat about technology. Feel free to reach out!
